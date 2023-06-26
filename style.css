@@ -12,11 +12,26 @@ body{
     justify-content: center;
     align-items: center;
 }
-.container a{
+.box{
+    text-align: center;
+    background-color: azure;
+    padding: 30px;
+    border-radius: 10px;
+}
+.box img{
+    max-width: 200px;
+    object-fit: contain;
+}
+.box h1{
+    padding-top: 20px;
+    padding-bottom: 30px;
+    font-size: 1rem;
+}
+.box a{
     text-decoration: none;
     color: white;
     background-color: #161616;
-    border: 2px solid white;
+    border: 2px solid yellow;
     padding: 10px 20px;
     border-radius: 10px;
 }
