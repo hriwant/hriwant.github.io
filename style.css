@@ -17,6 +17,7 @@ body{
     background-color: azure;
     padding: 30px;
     border-radius: 10px;
+    margin-bottom: 15%;
 }
 .box img{
     max-width: 200px;
