@@ -26,16 +26,18 @@ body{
     font-size: 1rem;
 }
 .main-btn{
+    font-size: 1.7rem;
     text-decoration: none;
     color: white;
     background-color: #161616;
     border: 2px solid yellow;
-    padding: 10px 20px;
+    padding: 15px 30px;
     border-radius: 10px;
+
 }
 .social-btn{
     background-color: #1616167e;
-    margin-top: 50px;
+    margin-top: 40px;
     padding: 20px 0;
     border-radius: 10px;
 }
