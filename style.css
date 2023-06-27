@@ -37,7 +37,7 @@ body{
     max-width: 200px;
     object-fit: contain;
 }
-.box h1{
+.box-text{
     padding-top: 20px;
     padding-bottom: 30px;
     font-size: 1rem;
